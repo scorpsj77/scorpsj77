@@ -16,7 +16,7 @@
 
 - **NLP Research Assistant @ Amherst College** (P.I. Prof. Shira Wein) – Investigating effects of translationese on cross-lingual summarization and question-answering
 - **Researcher @ Stanford University Center for Automated Reasoning** (P.I. PhD Chuyue Sun) – Creating datasets and pipelines for post-training and evaluating large language models on Verus-based deductive program verification
-- **Co-author** of "[Improving Abstract Meaning Representation Generation Fluency with Large Language Models](https://aclanthology.org/2025.winlp-main.2/)" accepted to **WiNLP 2025** (EMNLP) and **ACM MAGICC 2025** – Enhanced AMR-to-text generation fluency using LLM-based post-hoc refinement through prompt engineering techniques (role-playing, constrained rewording, few-shot learning), conducting 448 automated evaluations and 80 human assessments
+- **Co-author** of "[GPT4AMR](https://aclanthology.org/2025.winlp-main.2/)" accepted to **WiNLP 2025** (EMNLP) and **ACM MAGICC 2025** – Enhanced AMR-to-text generation fluency using LLM-based post-hoc refinement through prompt engineering techniques (role-playing, constrained rewording, few-shot learning), conducting automated evaluations and human judgments
 - Passionate about NLP, AI safety, and leveraging technology for positive social impact
 
 ### 🎓 Leadership & Activities
