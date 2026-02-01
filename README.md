@@ -16,10 +16,7 @@
 
 - **NLP Research Assistant @ Amherst College** (P.I. Prof. Shira Wein) – Investigating effects of translationese on cross-lingual summarization and question-answering
 - **Researcher @ Stanford University Center for Automated Reasoning** (P.I. PhD Chuyue Sun) – Creating datasets and pipelines for post-training and evaluating large language models on Verus-based deductive program verification
-- **Co-author** of research accepted to **WiNLP 2025** (EMNLP) and **ACM MAGICC 2025** on LLM-based fluency enhancement for AMR outputs
-- **Independent Research Projects**
-   - 💊 **MediGuard (Team Lead @ AI4ALL Ignite):** Led development of **98% accurate** stacking ensemble model for drug interaction prediction, processing 109K+ FDA adverse event records across 2,500+ drugs ([Poster](https://drive.google.com/file/u/2/d/1hyi93ajgr_O8Rg4xKygX7Cg3-n6JGhb4/view?usp=sharing) | [Code](https://github.com/scorpsj77/drug_interaction_prediction))
-   - 🤖 **AI-Generated Text Detection:** Improved detection accuracy by **68%** using meaning representations (AMR, DRS); achieved **82% accuracy** with Longformer on AMR motifs ([Paper](https://drive.google.com/file/u/2/d/1DxiHsVed81i-MqLuygNkCTwkYJwu51qZ/view?usp=sharing) | [Code](https://github.com/scorpsj77/aigt-detection))
+- **Co-author** of "[Improving Abstract Meaning Representation Generation Fluency with Large Language Models](https://aclanthology.org/2025.winlp-main.2/)" accepted to **WiNLP 2025** (EMNLP) and **ACM MAGICC 2025** – Enhanced AMR-to-text generation fluency using LLM-based post-hoc refinement through prompt engineering techniques (role-playing, constrained rewording, few-shot learning), conducting 448 automated evaluations and 80 human assessments
 - Passionate about NLP, AI safety, and leveraging technology for positive social impact
 
 ### 🎓 Leadership & Activities
@@ -38,6 +35,8 @@ Outside research and coursework, I am a:
 🎤 **Jazz vocalist** – Exploring vocal improvisation and performance  
 📷 **Landscape photographer** – Capturing nature's and architecture's beauty through the lens and traveling around the world!
 🌏 **Multilingual speaker** – Fluent in English, Chinese, and Cantonese
+
+**Fun fact:** My name "Jiyuan" (霁原) means "rainbow after a thunderstorm over a field" 🌈⛈️
 
 ---
 <h3 align="left">🔗 Connect with me:</h3>
